@@ -44,7 +44,8 @@ To get a local copy up and running, follow these simple steps.
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - [Dart SDK](https://dart.dev/get-dart)
-- [Android Studio](https://developer.android.com/studio) or [VSCode](https://code.visualstudio.com/) with Flutter extension
+- [Android Studio](https://developer.android.com/studio)
+- [VSCode](https://code.visualstudio.com/) with Flutter extension
 
 ## 📖 Usage
 
