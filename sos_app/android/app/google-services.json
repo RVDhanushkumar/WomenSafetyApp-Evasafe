@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329152658249",
+    "project_id": "women-sos-3ecb5",
+    "storage_bucket": "women-sos-3ecb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329152658249:android:a5929aa10a78c428887898",
+        "android_client_info": {
+          "package_name": "com.example.sos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe9CzOy43Rn7J9SzmqFufOSduIvQdIbcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

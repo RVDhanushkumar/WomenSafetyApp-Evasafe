@@ -1,0 +1,70 @@
+name: login_page
+description: "A new Flutter project."
+
+# Prevents the package from being accidentally published to pub.dev
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"  # Ensure your Dart SDK version matches Flutter version
+
+dependencies:
+  flutter:
+    sdk: flutter
+  vibration: ^2.0.0
+  fl_chart: ^0.69.0
+  shared_preferences: ^2.1.0
+  path_provider: ^2.0.11
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  video_player: ^2.2.19
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  geolocator: ^13.0.1
+  firebase_messaging: ^15.1.2
+  firebase_core: ^3.5.0
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1  # Launcher icons package
+
+flutter_icons:  # Configuration for app icons
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"  # Path to your app icon
+
+flutter:
+  uses-material-design: true  # Ensures Material Icons are included
+
+  assets:
+    - assets/images/watch.png
+    - assets/images/Sos.png
+    - assets/images/top_image.png
+    - assets/images/tick.png
+    - assets/images/welcome_image.jpg
+    - assets/images/profile_pic.jpg
+    - assets/images/top_image2.png
+    - assets/images/heart_rate_graph.png
+    - assets/images/sosbutton.gif
+    - assets/icon/app_icon.png
+    - assets/videos/evasafe_open_video.mp4
+
+  # Uncomment if you are using custom fonts
+  # fonts:
+  #   - family: YourCustomFont
+  #     fonts:
+  #       - asset: fonts/YourCustomFont-Regular.ttf
+  #       - asset: fonts/YourCustomFont-Bold.ttf
+  #         weight: 700
+
+# Icon Configuration
+flutter_launcher_icons:
+  android: true  # Enable for Android
+  ios: true  # Enable for iOS
+  image_path: "assets/icon/app_icon.png"  # Ensure this icon is a high-resolution image (512x512 or higher)
+  adaptive_icon_background: "000000"  # Background color for Android's adaptive icon
+  adaptive_icon_foreground: "assets/icon/app_icon_foreground.png"  # Foreground image for adaptive icon
