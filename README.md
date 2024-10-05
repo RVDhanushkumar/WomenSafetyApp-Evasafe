@@ -2,6 +2,7 @@
 
 Women Safety App is a mobile application developed using Flutter to enhance the safety of women in real-time by leveraging advanced features such as GPS tracking, crowdsourced alerts, and AI-driven solutions. Our app focuses on providing a robust safety network through a community-based approach, real-time assistance, and direct integration with local law enforcement.
 
+![app_icon1](https://github.com/user-attachments/assets/0da0a88e-22a9-491d-b8cf-d1c0849aa405)
 ## 🚀 Features
 
 ### 1. **Real-Time GPS Tracking**
